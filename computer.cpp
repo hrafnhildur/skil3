@@ -3,6 +3,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
+#include <ctime>
 using namespace std;
 
 Computer::Computer() {}
